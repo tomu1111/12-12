@@ -15,7 +15,7 @@
           return;
         });
         const peer = new Peer({
-        key: '51b3faa6-db69-418b-8cc3-ef30f2809c53',
+        key: '',
         debug: 3
          });
          peer.on('open', () => {
